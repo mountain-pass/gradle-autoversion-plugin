@@ -1,2 +1,4 @@
 # gradle-autoversion-plugin
-Manually setting project.version? Ain't nobody got time for dat!
+_**- Manually setting project.version? Ain't nobody got time for dat!**_
+
+
